@@ -1,0 +1,17 @@
+{
+  "name": "academic-deai-zh",
+  "displayName": "中文学术论文降 AI 率改写",
+  "description": "面向中文学术论文的双阶段降 AI 率改写技能与 .docx 辅助工具：严格锁定专业术语、数据事实与引注格式，分两阶段消除 AI 模板痕迹并输出可核查修改对照表。",
+  "version": "1.0.0",
+  "author": {
+    "name": "6-draco",
+    "url": "https://github.com/6-draco"
+  },
+  "homepage": "https://github.com/6-draco/academic-deai-zh",
+  "repository": "https://github.com/6-draco/academic-deai-zh",
+  "suggestedPrompts": [
+    "使用 academic-deai-zh 改写 @ch2.md 的第 3 至第 6 段",
+    "用 academic-deai-zh 处理 @paper.docx 第三章正文，确认后生成 _deai 文件",
+    "用 academic-deai-zh 对下面这段中文论文段落做双阶段降 AI 率改写"
+  ]
+}
